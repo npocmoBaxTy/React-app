@@ -1,0 +1,14 @@
+.Header {
+    height: 90vh;
+    position: relative;
+    background-image: url('https://images.wallpaperscraft.ru/image/single/palma_derevo_vetki_tropiki_111142_3264x2448.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Header__inner {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}

@@ -1,0 +1,28 @@
+.Pagination__wrapper  {
+	width: 100%;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.Pagination {
+	padding: 20px 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.Pagination__link {
+	background-color: transparent;
+	padding: 10px;
+	color: #fff;
+	border-radius: 10px;
+	border:1px solid #7811F7;
+	font-family: 'Lexend', sans-serif;
+	transition: .2s;
+	cursor: pointer;
+}
+.Pagination__link:hover {
+	transition: .2s;
+	color: #fff;
+	background-color: #7811F7;
+}

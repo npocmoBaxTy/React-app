@@ -1,0 +1,14 @@
+.content {
+    position: relative;
+    display: flex;
+    align-items: stretch;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    /*padding: 10px;*/
+}
+
+.content__wrapper {
+	display: flex;
+	flex-direction: column;
+	padding-bottom: 20px;
+}
